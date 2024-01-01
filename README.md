@@ -1,5 +1,5 @@
 <h1>
-Projeto We Care
+We Care
 </h1>
 
 <h2>
